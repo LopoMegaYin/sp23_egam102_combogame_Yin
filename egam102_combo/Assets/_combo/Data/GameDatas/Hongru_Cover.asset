@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39e946f0184b34f498d5ac9ac79969be, type: 3}
+  m_Name: Hongru_Cover
+  m_EditorClassIdentifier: 
+  _studentName: Hongru Yao
+  _microgameName: Catch
+  _microgameNumber: 1
+  _isCover: 1
+  _previewSprite: {fileID: 21300000, guid: 1f21bd80bfb954d28898f3f763bcbf3b, type: 3}
+  _galleryString: 
+  _gallerySprite: {fileID: 0}
+  _isMicrogamePrefabSupported: 1
+  _timeoutDuration: 10
+  _sceneName: Assets/hongru/cover/Scenes/hongru_cover.unity
